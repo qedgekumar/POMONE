@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+    <line>
+      <![CDATA[Customer Added Fail   Customer-00000004728]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-29T18:18:58 IST" name="Default suite" finished-at="2024-05-29T18:20:15 IST" duration-ms="77859">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T18:18:58 IST" name="Default test" finished-at="2024-05-29T18:20:15 IST" duration-ms="77859">
+      <class name="driverScript.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverScript.AppTest@30bcf3c1]" started-at="2024-05-29T18:18:58 IST" name="setUp" finished-at="2024-05-29T18:19:03 IST" duration-ms="5229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverScript.AppTest@30bcf3c1]" started-at="2024-05-29T18:19:03 IST" name="startTest" finished-at="2024-05-29T18:20:15 IST" duration-ms="71688" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+            <line>
+              <![CDATA[Customer Added Fail   Customer-00000004728]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverScript.AppTest@30bcf3c1]" started-at="2024-05-29T18:20:15 IST" name="tearDown" finished-at="2024-05-29T18:20:15 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverScript.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
